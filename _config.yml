@@ -1,0 +1,17 @@
+# Base configs
+baseurl: "https://sunprinces.github.io/photography"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Hello World"
+subtitle: "See the world through my eyes!"
+author: "Tony Hsu"
+header:
+ title: "Photography"
+ subtitle: "by Tony Hsu"
+web_design: "AJ"
+social_urls:
+  twitter: "https://twitter.com/sunprinceS_0822"
+  instagram: "https://www.instagram.com/sunprince822"
