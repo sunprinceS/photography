@@ -5,7 +5,7 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Hello World"
+title: "On my way"
 subtitle: "See the world through my eyes!"
 author: "Tony Hsu"
 header:
@@ -15,3 +15,4 @@ web_design: "AJ"
 social_urls:
   twitter: "https://twitter.com/sunprinceS_0822"
   instagram: "https://www.instagram.com/sunprince822"
+  wordpress: "https://sunprincelife.wordpress.com/"
