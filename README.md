@@ -25,6 +25,18 @@ This repo recorded some photos in my life (2017-2019), synchronizing with [Flick
   * 2018/05 - 🇬🇧 Edinburgh
   * 2018/05 - 🇮🇪 Dublin
 
+* 2018 Summer Internship in 🇺🇸
+  * 07 - Monterey
+  * 07/08 - San Francisco
+  * 08 - Napa Valley
+  * 08 - Lake Tahoe
+  * 08 - Berkeley
+  * 09 - Lassen Volcanic/ Crater Lake/ Shasta 
+  * 09 - Half Moon Bay 🏇
+
+* 2019 Travelling
+  * 07 - 🇻🇳 Đà Nẵng/ Hội An/ Huế
+
 ## Credits
 * Thanks to [AJ](https://twitter.com/ajlkn) for the website template which I enhanced for [jekyll](http://jekyllrb.com/).
 * Thanks to [rampatra](https://github.com/rampatra) for his [repo](https://github.com/rampatra/photography).
