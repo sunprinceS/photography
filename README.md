@@ -6,7 +6,7 @@ This repo recorded some photos in my life (2017-2019), synchronizing with [Flick
   * 2017/09 - 🇩🇰 København
   * 2017/09 - 🇫🇮 Helsinki
   * 2017/09 - 🇪🇪 Tallinn
-  * 2017/10 - 🇳🇴 Oslo, Flåm, Bergen
+  * 2017/10 - 🇳🇴 Oslo, Flåm, Bergen ⛰️
   * 2017/10 - 🇮🇹 Rome, Venice, Milano
   * 2017/10 - 🇫🇷 Paris
   * 2017/11 -  🇧🇪 Brussel, Brugge, Ghent
@@ -26,10 +26,10 @@ This repo recorded some photos in my life (2017-2019), synchronizing with [Flick
   * 2018/05 - 🇮🇪 Dublin
 
 * 2018 Summer Internship in 🇺🇸
-  * 07 - Monterey
-  * 07/08 - San Francisco
-  * 08 - Napa Valley
-  * 08 - Lake Tahoe
+  * 07 - Monterey  
+  * 07/08 - San Francisco ⚾ 🚴
+  * 08 - Napa Valley 🍷
+  * 08 - Lake Tahoe 🚣
   * 08 - Berkeley
   * 09 - Lassen Volcanic/ Crater Lake/ Shasta 
   * 09 - Half Moon Bay 🏇
