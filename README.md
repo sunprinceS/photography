@@ -1,5 +1,5 @@
 # Photography
-This repo recorded some photos in my life (2017-2019), synchronizing with [Flickr](https://www.flickr.com/photos/147409487@N06/)
+This repo recorded some photos in my life (2017-2019), synchronized with [Flickr](https://www.flickr.com/photos/147409487@N06/)
 
 # Moments
 * 2017/18 Exchange life in 🇸🇪
